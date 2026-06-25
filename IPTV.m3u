@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/1100x618x1/uploads/dten/2022/06/22/original-1606127688.jpeg" group-title="", T Sports
+#EXTINF:-1 tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/1100x618x1/uploads/dten/2022/06/22/original-1606127688.jpeg" group-title="", T Sports HD
 https://trs1.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331" group-title="", MBC
@@ -9,21 +9,27 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9" group-title="", MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 
-#EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment",ARY Digital
+#EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment", ARY Digital HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arydigital.aryzap.com/fe639df79bad0504c79eaa8c3560ab36/6a3d2872/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=44d9c4d8-481e-4555-97c3-86877ecd346d
 
-#EXTINF:-1 tvg-id="ARYNews" tvg-name="ARY News" tvf-logo="https://www.facebook.com/photo/?fbid=680630707421725&set=a.636949711789825&locale=bn_IN" group-title="News",ARY News
+#EXTINF:-1 tvg-id="ARYNews" tvg-name="ARY News" tvf-logo="https://www.facebook.com/photo/?fbid=680630707421725&set=a.636949711789825&locale=bn_IN" group-title="News", ARY News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arynews.aryzap.com/6f98221a6e1fb18314f5ca2ae84b3933/6a3d3b23/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=60b6804d-90ed-4b24-bfe5-e8831a2f25ee
 
 #EXTINF:-1 tvg-id="ARYMusik" tvg-name="ARY Musik" tvf-logo="" group-title="Music", ARY Musik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arymusik.aryzap.com/d66c94fa3ef2d7b6f3880afc966e9140/6a3d4492/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 
 #EXTINF:-1 tvg-id="ARYQTV" tvg-name="ARY QTV" tvf-logo="" group-title="Islamic", ARY QTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryzap.com/
 https://aryqtv.aryzap.com/ae661e0bf5c36b8f4502dfbea6ecb71c/6a3d45c2/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8
 
-#EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV
+#EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/516063074_740542218907312_4517936687593715514_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IK7UVcW2aMkQ7kNvwGj1txz&_nc_oc=Ado1tbq3OPFxHUX63WGwS4rBObKoPjaQOqfZ20i_awRoUFP9WYAuz0av1YEsgJO8ZzU&_nc_zt=23&_nc_ht=scontent.fdac151-1.fna&_nc_gid=lEq-z5B8BWckpyfUDSVc2w&_nc_ss=7b2a8&oh=00_Af9GLnQcaSQMUcxz04IlCYMXha0tf5UcTInDzK-wYTvgvA&oe=6A3EA52D" group-title="Pakistan; Urdu; Entertainment", Green Entertainment HD
@@ -38,7 +44,7 @@ https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-name="Bol Entertainment" tvf-logo="" group-title="Entertainment", Bol Entertainment
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
 
-#EXTINF:-1 tvg-name="Aur Life" tvf-logo="" group-title="Entertainment", Aur Life
+#EXTINF:-1 tvg-name="Aur Life" tvf-logo="" group-title="Entertainment", Aur Life HD
 #EXTVLCOPT:http-referrer=https://globetv.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cors.globetv.app/http://124.109.47.101/hls/stream1.m3u8
