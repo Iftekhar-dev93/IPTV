@@ -1,1 +1,168 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/1100x618x1/uploads/dten/2022/06/22/original-1606127688.jpeg" group-title="", T Sports
+https://trs1.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331" group-title="", MBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9" group-title="", MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment",ARY Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://arydigital.aryzap.com/fe639df79bad0504c79eaa8c3560ab36/6a3d2872/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=44d9c4d8-481e-4555-97c3-86877ecd346d
+
+#EXTINF:-1 tvg-id="ARYNews" tvg-name="ARY News" tvf-logo="https://www.facebook.com/photo/?fbid=680630707421725&set=a.636949711789825&locale=bn_IN" group-title="News",ARY News
+https://arynews.aryzap.com/6f98221a6e1fb18314f5ca2ae84b3933/6a3d3b23/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=60b6804d-90ed-4b24-bfe5-e8831a2f25ee
+
+#EXTINF:-1 tvg-id="ARYMusik" tvg-name="ARY Musik" tvf-logo="" group-title="Music", ARY Musik
+https://arymusik.aryzap.com/d66c94fa3ef2d7b6f3880afc966e9140/6a3d4492/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+
+#EXTINF:-1 tvg-id="ARYQTV" tvg-name="ARY QTV" tvf-logo="" group-title="Islamic", ARY QTV
+https://aryqtv.aryzap.com/ae661e0bf5c36b8f4502dfbea6ecb71c/6a3d45c2/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8
+
+#EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/516063074_740542218907312_4517936687593715514_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IK7UVcW2aMkQ7kNvwGj1txz&_nc_oc=Ado1tbq3OPFxHUX63WGwS4rBObKoPjaQOqfZ20i_awRoUFP9WYAuz0av1YEsgJO8ZzU&_nc_zt=23&_nc_ht=scontent.fdac151-1.fna&_nc_gid=lEq-z5B8BWckpyfUDSVc2w&_nc_ss=7b2a8&oh=00_Af9GLnQcaSQMUcxz04IlCYMXha0tf5UcTInDzK-wYTvgvA&oe=6A3EA52D" group-title="Pakistan; Urdu; Entertainment", Green Entertainment HD
+https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Express Entertainment" tvf-logo="" group-title="Entertainment", Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-name="Aaj Entertainment" tvf-logo="" group-title="Entertainment", Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-name="Bol Entertainment" tvf-logo="" group-title="Entertainment", Bol Entertainment
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-name="Aur Life" tvf-logo="" group-title="Entertainment", Aur Life
+#EXTVLCOPT:http-referrer=https://globetv.app/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cors.globetv.app/http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://zdzdwenk54sh.merlincdn.net/content/Q/Kv/413712/logo_50.png?v=638912739955861801" group-title="", Jordan TV Tourism HD
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://zdzdwenk54sh.merlincdn.net/content/U/wm/413700/logo_50.png?v=638912749301100995" group-title="", Jordan TV HD
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://zdzdwenk54sh.merlincdn.net/content/j/-y/413703/logo_50.png?v=638912734410541266" group-title="", Jordan TV Sports HD
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="English; Infotainment", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="English; Infotainment", Travel XP 
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="USA; English; Entertainment", CHARGE! TV
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-11_08_29-AM-1.png" group-title="USA; English; Entertainment", Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-11_21_12-AM-1.png" group-title="USA; English; Entertainment", Whiplash 2
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="USA; English; Movies", Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_One_Logo_2025.png/500px-Zee_One_Logo_2025.png" group-title="India; English; Entertainment", Zee One
+https://edc76f2d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1plZVdvcmxkLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1.png" group-title="India; Hindi; Movies", The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh; Bengali; Parliament", Sangsad Bangladesh
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladesh; Bengali; News", Somoy TV
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladesh; Bengali; News", Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="Bangladesh; Bengali; News", Channel-1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangladesh; Bengali; News", Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangladesh; Bengali; News", Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangladesh; Bengali; News", Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangladesh; Bengali; News", Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Bangladesh; Bengali; News", News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladesh; Bengali; News", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangladesh; Bengali; News", ATN News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangladesh; Bengali; Entertainment", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladesh; Bengali; Entertainment", Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladesh; Bengali; News", SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Bangladesh; Bengali; Entertainment", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh; Bengali; Entertainment", Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangladesh; Bengali; Entertainment", Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh; Bengali; Entertainment", Maasranga Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="Bangladesh; Bengali; Entertainment", Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Bangladesh; Bengali; Entertainment", Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangladesh; Bengali; Movies", Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh; Bengali; Entertainment", SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="Qatar; English; News", Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="USA; English; News", CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Germany; English; News", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Iran; English; News", Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Japan; English; News", NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="China; English; News", CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="France; English; News", France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="UK; English; News", Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 
