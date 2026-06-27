@@ -18,7 +18,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 #EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment", ARY Digital HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aryzap.com/
-https://arydigital.aryzap.com/fe639df79bad0504c79eaa8c3560ab36/6a3d2872/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=44d9c4d8-481e-4555-97c3-86877ecd346d
+https://arydigital.aryzap.com/f14a71e4657d1b51d3a46561b78f197b/6a4144d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=afaa1173-c8ea-441e-9efc-1a6e5cddf4a1
 
 #EXTINF:-1 tvg-id="ARYNews" tvg-name="ARY News" tvf-logo="https://www.facebook.com/photo/?fbid=680630707421725&set=a.636949711789825&locale=bn_IN" group-title="News", ARY News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
