@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF: tvg-logo="" group-title="", Rai 1 HD
+https://juventusonair.com/lv/ck/app/rai/tivusat/rai1.php
+
 #EXTINF: tvg-logo="" group-title="", CTV
 http://172.19.178.149:18190/fifa102/index.fmp4.m3u8?token=3f12c2745c48e58a8ce62fea5520aa83e847dd83-2f1d88e70f731286c7a15588613b10fe-1783014621-1783003521
 
