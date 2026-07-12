@@ -296,3 +296,233 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Star Jalsha HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Jalsha Movies HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Colors Bangla HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sun Bangla HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Enterr10 Bangla
+https://s2.itcnbd.live/server-1/stream/live_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", PTV Sports HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTI.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", A Sports HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Fast Sports HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 1 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 2 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 5 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAx.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Ten Cricket
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Sports 1 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Sports 2 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mw.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Sports Select 1 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Sports Select 2 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTY.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", T Sports HD
+https://s1.itcnbd.live/T-Sports-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Eurosport HD
+https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Hum Masala
+https://s2.itcnbd.live/server-2/stream/hum_masala.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Hum Sitaray World
+https://s2.itcnbd.live/server-2/stream/hum_sitaray.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Hum TV Europe
+https://s2.itcnbd.live/server-2/stream/hum_tv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Party Universe
+https://s2.itcnbd.live/server-1/stream/partyuniverse.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Cineedge HD
+https://s2.itcnbd.live/server-1/stream/cineedge.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Crimes
+https://s2.itcnbd.live/server-1/stream/crimes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Intelligence
+https://s2.itcnbd.live/server-1/stream/intelligence.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Originals
+https://s2.itcnbd.live/server-1/stream/originals.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max
+https://s2.itcnbd.live/server-2/stream/sony_max.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Superrix
+https://s2.itcnbd.live/server-1/stream/superrix.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", True Stories
+https://s2.itcnbd.live/server-1/stream/truestories.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Uniques
+https://s2.itcnbd.live/server-1/stream/uniques.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", &Xplor HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Animal Planet HD
+https://s2.itcnbd.live/server-2/stream/animal_planet_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", BBC Earth
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAy.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Delicious
+https://s2.itcnbd.live/server-1/stream/delicious.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Discovery HD (Hindi)
+https://s2.itcnbd.live/server-2/stream/discovery_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Discovery HD (Bengali)
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjI.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", History TV 18 HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTU.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Investigation Discovery HD
+https://s2.itcnbd.live/server-2/stream/discovary_investigation_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Lotus Macau
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Love Nature
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", MN+ HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzY.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", MNX HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Movies Now HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", National Geographic HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjU.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Nat Geo Wild HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony BBC Earth HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Ng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Pix HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzI.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Movies HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Movies Select HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TLC HD
+https://s2.itcnbd.live/server-2/stream/tlc_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Travelxp HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjI.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Buddy Star
+https://s2.itcnbd.live/server-1/stream/buddystar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Cartoon Network HD+ (English)
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Cartoon Network HD+ (Hindi)
+https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Pogo
+https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", &Pictures HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Colors Cineplex HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Colors HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Geo News
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Bharat HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAw.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Gold HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Plus HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee Cinema HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee TV HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nw.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Madani Channel Bangla HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Peace TV Bangla HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODY.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Flash Guys
+https://s2.itcnbd.live/server-1/stream/flashguys.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Crazy Ex
+https://s2.itcnbd.live/server-1/stream/crazy_ex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Islamic TV
+https://s2.itcnbd.live/server-2/stream/islamic_tv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", PTV News
+https://s1.itcnbd.live/PTV-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", BTV HD
+https://s1.itcnbd.live/btv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Somoy TV
+https://s1.itcnbd.live/somoy/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Unite8 Sports 1 HD
+https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Unite8 Sports 2 HD
+https://s1.itcnbd.live/unite-8-sports-2-hd/index.m3u8
+
+
