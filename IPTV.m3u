@@ -293,3 +293,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ISLAMIC CHANNELS", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Jalsha HD
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
