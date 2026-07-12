@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/
 https://m3uplay.com/stream.m3u8?id=historytv18eng
