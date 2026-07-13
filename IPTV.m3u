@@ -259,9 +259,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Star Jalsha HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Star Jalsha HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/live/bangla-plus/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
@@ -288,7 +285,7 @@ https://s2.itcnbd.live/server-1/stream/live_720p.m3u8
 
 #EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment", ARY Digital HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aryzap.com/
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://arydigital.aryzap.com/f14a71e4657d1b51d3a46561b78f197b/6a4144d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=afaa1173-c8ea-441e-9efc-1a6e5cddf4a1
 
 #EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV HD
