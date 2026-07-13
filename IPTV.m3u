@@ -8,6 +8,11 @@ https://s1.itcnbd.live/btv/index.m3u8
 #EXTVLCOPT:http-referrer=https://m3uplay.com/
 https://m3uplay.com/stream.m3u8?id=zcineclassic
 
+#EXTINF:-1 tvg-logo="" group-title="", Zee South Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/
+https://m3uplay.com/stream.m3u8?id=zsouthflix
+
 #EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Sony_HD.png" group-title="Entertainment", Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
