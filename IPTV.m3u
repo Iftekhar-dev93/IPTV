@@ -286,7 +286,7 @@ https://s2.itcnbd.live/server-1/stream/live_720p.m3u8
 #EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment", ARY Digital HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.arydigital.tv/
-https://arydigital.aryzap.com/f14a71e4657d1b51d3a46561b78f197b/6a4144d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=afaa1173-c8ea-441e-9efc-1a6e5cddf4a1
+https://arydigital.aryzap.com/77411bd00615d07f188707e49a377af2/6a55aaeb/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8?uuid=4bee3d76-c7ac-490f-8e58-f475ad5f523b
 
 #EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
