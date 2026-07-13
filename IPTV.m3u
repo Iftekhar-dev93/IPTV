@@ -285,8 +285,28 @@ https://s2.itcnbd.live/server-1/stream/live_720p.m3u8
 
 #EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARY Digital" tvf-logo="https://www.facebook.com/photo/?fbid=1290144662480194&set=a.802993071195358" group-title="Entertainment", ARY Digital HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613c6e55dc7c44b470f024a
 https://arydigital.aryzap.com/77411bd00615d07f188707e49a377af2/6a55aaeb/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8?uuid=4bee3d76-c7ac-490f-8e58-f475ad5f523b
+
+#EXTINF:-1 tvg-logo="" group-title="", ARY News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613c6aa6777654b16d4e9e1
+https://arynews.aryzap.com/64af0a0d5dab7b63ce78af7f49a37a15/6a55addd/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=4138dde1-76c7-4162-8c59-4b40a9083f55
+
+#EXTINF:-1 tvg-logo="" group-title="", ARY QTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cb944753ce45bad667a7
+https://aryqtv.aryzap.com/e22f670010ba0ceb75d4fe6398134bf0/6a55ae45/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8?uuid=011b0fb1-378a-4afa-8465-d95d9d7f10e2
+
+#EXTINF:-1 tvg-logo="" group-title="", ARY Musik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cbc54753ce45bad667a9
+https://arymusik.aryzap.com/74dea8d7ad80d3a6c197158aa5f2868a/6a55ae99/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8?uuid=5e3c96ee-de08-404b-b8f0-eda524e0c0ae
+
+#EXTINF:-1 tvg-logo="" group-title="", ARY Zindagi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cb5a4753ce45bad667a5
+https://aryzindagi.aryzap.com/8cf1d3e020174aaeec1d82f8fae416a9/6a55af27/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8?uuid=f8814521-f37c-43f6-a1ec-09aefb238853
 
 #EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
