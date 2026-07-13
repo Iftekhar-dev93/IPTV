@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", Sun Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/live/sun-music-hd/
+https://white-paper-38cb.keralive.workers.dev/livestream/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="", Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
