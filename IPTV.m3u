@@ -3,60 +3,60 @@
 #EXTINF:-1 tvg-logo="" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_HD.png" group-title="", Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Max_HD.png" group-title="", Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sab HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Sab_HD.png" group-title="", Sony Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Max.png" group-title="", Sony Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009249
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max 2
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Max_2.png" group-title="", Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Kal
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Kal.png" group-title="", Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Pal
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Pal.png" group-title="", Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Wah
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Wah.png" group-title="", Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Sports_Ten_1_HD.png" group-title="", Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 2 HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Sports_Ten_2_HD.png" group-title="", Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 3 HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="", Sony Sports Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-logo="assets/logos/Sony_Sports_Ten_5_HD.png" group-title="", Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275
