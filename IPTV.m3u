@@ -61,7 +61,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 
-#EXTINF:-1 tvg-logo="" group-title="", T Sports HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/T_Sports.png" group-title="Sports", T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Somoy TV
