@@ -29,9 +29,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009249
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878
 
 #EXTINF:-1 tvg-logo="" group-title="", Sony Kal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
-https://playyonogames.in/sliv/stream.m3u8?id=0000000005
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -57,11 +55,6 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
-https://playyonogames.in/sliv/stream.m3u8?id=1000119186
 
 #EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
