@@ -3,15 +3,45 @@
 #EXTINF:-1 tvg-logo="" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", History TV 18 HD (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://m3uplay.com/stream.m3u8?id=historytv18eng
+#EXTINF:-1 tvg-logo="" group-title="", Sony HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 #EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sab HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Kal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=0000000005
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Pal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+
+#EXTINF:-1 tvg-logo="" group-title="", Sony Wah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 tvg-logo="" group-title="", T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/index.m3u8
@@ -135,6 +165,11 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjI.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", History TV 18 HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTU.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", History TV 18 HD (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://m3uplay.com/
+https://m3uplay.com/stream.m3u8?id=historytv18eng
 
 #EXTINF:-1 tvg-logo="" group-title="", Investigation Discovery HD
 https://s2.itcnbd.live/server-2/stream/discovary_investigation_hd.m3u8
