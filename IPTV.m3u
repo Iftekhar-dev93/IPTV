@@ -3,11 +3,6 @@
 #EXTINF:-1 tvg-logo="" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Sun Music HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/live/sun-music-hd/
-https://white-paper-38cb.keralive.workers.dev/livestream/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="", Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
@@ -86,15 +81,6 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODg.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Fast Sports HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 1 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzQ.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjk.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sports Ten 5 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAx.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
@@ -380,9 +366,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_One_Logo_2025.png/500px-Zee_One_Logo_2025.png" group-title="India; English; Entertainment", Zee One
 https://edc76f2d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1plZVdvcmxkLTFfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Toffee", Zee Cinema HD
-https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1.png" group-title="India; Hindi; Movies", The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
@@ -469,14 +452,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="", Cineedge HD
 https://s2.itcnbd.live/server-1/stream/cineedge.m3u8
 
@@ -544,15 +519,6 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NA.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Geo News
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTA.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTE.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max
-https://s2.itcnbd.live/server-2/stream/sony_max.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjE.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Star Bharat HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAw.m3u8
