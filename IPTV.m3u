@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", BTV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Bangladesh_Television.png" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", BTV News HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/BTV_News.png" group-title="", BTV News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streams.btvlive.gov.bd/live/30ba2b60-f2f5-4ffc-839d-ceaf8954e681/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/
 https://streams.btvlive.gov.bd/live/30ba2b60-f2f5-4ffc-839d-ceaf8954e681/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
