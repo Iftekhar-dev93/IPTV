@@ -5,11 +5,6 @@ https://s1.itcnbd.live/btv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/live/superfine-films/
-https://supertamil.keralive.workers.dev/p_supjio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/
 https://m3uplay.com/stream.m3u8?id=zcineclassic
 
@@ -130,12 +125,6 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTY.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Eurosport HD
 https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Flash Guys
-https://s2.itcnbd.live/server-1/stream/flashguys.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Crazy Ex
-https://s2.itcnbd.live/server-1/stream/crazy_ex.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="", Travelxp HD (Bengali)
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjI.m3u8
 
@@ -154,10 +143,7 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjU.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Nat Geo Wild HD (Hindi)
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony BBC Earth HD (English)
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Ng.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Sony BBC Earth HD (English)
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Sony_BBC_Earth_HD.png" group-title="", Sony BBC Earth HD (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252
@@ -171,14 +157,14 @@ https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" group-title="Travel", 4K Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://go2travel.tv/_next/image/?url=%2Flogo.png&w=64&q=75" group-title="Travel", GO2 Travel
-https://go2thls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250416T020410SQUARE.png" group-title="Educational", Wheel World
 https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/IQJW/WBD/WheelWorld_IN/WheelWorld_IN.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Educational", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", BBC Earth
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAy.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="Educational", CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
@@ -191,9 +177,6 @@ https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Animal Planet HD
 https://s2.itcnbd.live/server-2/stream/animal_planet_hd.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", BBC Earth
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAy.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Delicious
 https://s2.itcnbd.live/server-1/stream/delicious.m3u8
@@ -310,26 +293,6 @@ https://s2.itcnbd.live/server-1/stream/live_720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613c6e55dc7c44b470f024a
 https://arydigital.aryzap.com/77411bd00615d07f188707e49a377af2/6a55aaeb/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8?uuid=4bee3d76-c7ac-490f-8e58-f475ad5f523b
-
-#EXTINF:-1 tvg-logo="" group-title="", ARY News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613c6aa6777654b16d4e9e1
-https://arynews.aryzap.com/64af0a0d5dab7b63ce78af7f49a37a15/6a55addd/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=4138dde1-76c7-4162-8c59-4b40a9083f55
-
-#EXTINF:-1 tvg-logo="" group-title="", ARY QTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cb944753ce45bad667a7
-https://aryqtv.aryzap.com/e22f670010ba0ceb75d4fe6398134bf0/6a55ae45/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8?uuid=011b0fb1-378a-4afa-8465-d95d9d7f10e2
-
-#EXTINF:-1 tvg-logo="" group-title="", ARY Musik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cbc54753ce45bad667a9
-https://arymusik.aryzap.com/74dea8d7ad80d3a6c197158aa5f2868a/6a55ae99/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8?uuid=5e3c96ee-de08-404b-b8f0-eda524e0c0ae
-
-#EXTINF:-1 tvg-logo="" group-title="", ARY Zindagi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aryplus.tv/live/v1/6613cb5a4753ce45bad667a5
-https://aryzindagi.aryzap.com/8cf1d3e020174aaeec1d82f8fae416a9/6a55af27/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8?uuid=f8814521-f37c-43f6-a1ec-09aefb238853
 
 #EXTINF:-1 tvg-id="HumTV" tvg-name="Hum TV" tvf-logo="" group-title="Entertainment", Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
@@ -483,25 +446,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ISLAMIC CHANNELS", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="", Cineedge HD
-https://s2.itcnbd.live/server-1/stream/cineedge.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Crimes
-https://s2.itcnbd.live/server-1/stream/crimes.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Originals
-https://s2.itcnbd.live/server-1/stream/originals.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Superrix
-https://s2.itcnbd.live/server-1/stream/superrix.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", True Stories
-https://s2.itcnbd.live/server-1/stream/truestories.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Uniques
-https://s2.itcnbd.live/server-1/stream/uniques.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="", Lotus Macau
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTE.m3u8
 
@@ -514,8 +458,10 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzM.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Movies Now HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzk.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Sony Pix HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzI.m3u8
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Sony_Pix_HD.png" group-title="", Sony Pix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 #EXTINF:-1 tvg-logo="" group-title="", Star Movies HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzg.m3u8
