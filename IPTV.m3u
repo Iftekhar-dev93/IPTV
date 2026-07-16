@@ -6,7 +6,7 @@ https://s1.itcnbd.live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Movies Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://southlive.net/player.php
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?&keyId=40f019b86241d23ef075633fd7f1e927&key=058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd|clearkey=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
