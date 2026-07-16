@@ -89,7 +89,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 #EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/T_Sports.png" group-title="Sports", T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Somoy TV
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Somoy_TV.png" group-title="", Somoy TV
 https://s1.itcnbd.live/somoy/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Unite8 Sports 1 HD
@@ -152,6 +152,11 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Sony BBC Earth HD (English)
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Ng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", Sony BBC Earth HD (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playyonogames.in/sliv/
+https://playyonogames.in/sliv/stream.m3u8?id=1000009252
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5" group-title="Travel", InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
@@ -208,61 +213,61 @@ https://s2.itcnbd.live/server-2/stream/discovary_investigation_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Love Nature
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njc.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh; Bengali; Parliament", Sangsad Bangladesh
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Sangsad_Bangladesh.png" group-title="Bangladesh; Bengali; Parliament", Sangsad Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladesh; Bengali; News", Somoy TV
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Somoy_TV.png" group-title="Bangladesh; Bengali; News", Somoy TV
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladesh; Bengali; News", Ekattor TV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Ekattor_TV_HD.png" group-title="Bangladesh; Bengali; News", Ekattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="Bangladesh; Bengali; News", Channel 1 4K
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Channel_1.png" group-title="Bangladesh; Bengali; News", Channel 1 4K
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangladesh; Bengali; News", Channel 24
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Channel_24.png" group-title="Bangladesh; Bengali; News", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangladesh; Bengali; News", Independent TV
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Independent_Television.png" group-title="Bangladesh; Bengali; News", Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangladesh; Bengali; News", Jamuna TV
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Jamuna_TV.png" group-title="Bangladesh; Bengali; News", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangladesh; Bengali; News", Star News
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Star_News.png" group-title="Bangladesh; Bengali; News", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Bangladesh; Bengali; News", News 24 HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/News_24.png" group-title="Bangladesh; Bengali; News", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladesh; Bengali; News", DBC News
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/DBC_News.png" group-title="Bangladesh; Bengali; News", DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangladesh; Bengali; News", ATN News HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/ATN_News.png" group-title="Bangladesh; Bengali; News", ATN News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangladesh; Bengali; Entertainment", NTV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/NTV.png" group-title="Bangladesh; Bengali; Entertainment", NTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladesh; Bengali; Entertainment", Bangla Vision HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Bangla_Vision.png" group-title="Bangladesh; Bengali; Entertainment", Bangla Vision HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Bangladesh; Bengali; Entertainment", Boishakhi TV
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Boishakhi_TV.png" group-title="Bangladesh; Bengali; Entertainment", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh; Bengali; Entertainment", Ekushey TV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Ekushey_Television.png" group-title="Bangladesh; Bengali; Entertainment", Ekushey TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangladesh; Bengali; Entertainment", Channel I HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Channel_I.png" group-title="Bangladesh; Bengali; Entertainment", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh; Bengali; Entertainment", Maasranga TV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Maasranga_Television.png" group-title="Bangladesh; Bengali; Entertainment", Maasranga TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="Bangladesh; Bengali; Entertainment", Channel 9 HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Channel_9.png" group-title="Bangladesh; Bengali; Entertainment", Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh; Bengali; Entertainment", Desh TV HD
+#EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Desh_TV.png" group-title="Bangladesh; Bengali; Entertainment", Desh TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangladesh; Bengali; Movies", Movie Bangla TV
