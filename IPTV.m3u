@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Bangladesh_Television.png" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
+#EXTINF:-1 tvg-logo="" group-title="", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/live/hbo/
-https://southlive.net/player.php?mpd=https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd?&keyId=d7f3c8215a944e068b176c9d2a5f3048&key=93c0a798243d6443864d1a7ff3e42c05
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd?&keyId=d7f3c8215a944e068b176c9d2a5f3048&key=93c0a798243d6443864d1a7ff3e42c05
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
