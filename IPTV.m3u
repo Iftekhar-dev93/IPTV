@@ -3,25 +3,15 @@
 #EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Bangladesh_Television.png" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://m3uplay.com/stream.m3u8?id=zcineclassic
-
 #EXTINF:-1 tvg-logo="" group-title="", Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/
 https://m3uplay.com/stream.m3u8?id=zsouthflix
 
-#EXTINF:-1 tvg-logo="" group-title="", Zee Horror Nights
+#EXTINF:-1 tvg-logo="" group-title="", Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://m3uplay.com/stream.m3u8?id=zhorrornights
-
-#EXTINF:-1 tvg-logo="" group-title="", Zee Dil Se
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://m3uplay.com/stream.m3u8?id=zdilse
+https://m3uplay.com/stream.m3u8?id=zcineclassic
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee Comedy Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -172,14 +162,8 @@ https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Educational", Adventure Earth
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies", Intelligence
-https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="", Animal Planet HD
 https://s2.itcnbd.live/server-2/stream/animal_planet_hd.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Delicious
-https://s2.itcnbd.live/server-1/stream/delicious.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Discovery HD (Hindi)
 https://s2.itcnbd.live/server-2/stream/discovery_hd.m3u8
@@ -278,7 +262,9 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee Bangla HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTQ.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/live/bangla-plus/
+https://yupp-origin-vt.keralive.workers.dev/260723/zeebangla_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Colors Bangla HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
