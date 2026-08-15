@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", Fox Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://cdnfan.site/live.php?id=cdf33914850049e8&token=guest__1d15dcHYKhdo9nFZfSut78nC7PVSnfr4pDt-8et1HCrjbrY65hysj8Lyx4lh1AQholyuFkF4FHwTpNJ9Z63DLfi2Lhb1XUbwJNbAVWvvCQt9-GxgvS0ijFq_q-U0l_5UoZMM1Igiq8ES40NaKPnU1zQxKHhBCaeZW2_sGuj8FW8-Bbi8xa-qEU35sA3-bwaZ8KC17odY4SszV_6NZRCJBG82eWee4QGnWF8Tf0uCtLujl02g1_JY8v_x3IFimgKs3VA2&format=.m3u8
-
 #EXTINF:-1 tvg-logo="https://iftekhar-dev93.github.io/IPTV/assets/logos/Bangladesh_Television.png" group-title="", BTV HD
 https://s1.itcnbd.live/btv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Fox Cricket
+https://cdnfan.site/live.php?id=cdf33914850049e8&token=guest__1d15dcHYKhdo9nFZfSut78nC7PVSnfr4pDt-8et1HCrjbrY65hysj8Lyx4lh1AQholyuFkF4FHwTpNJ9Z63DLfi2Lhb1XUbwJNbAVWvvCQt9-GxgvS0ijFq_q-U0l_5UoZMM1Igiq8ES40NaKPnU1zQxKHhBCaeZW2_sGuj8FW8-Bbi8xa-qEU35sA3-bwaZ8KC17odY4SszV_6NZRCJBG82eWee4QGnWF8Tf0uCtLujl02g1_JY8v_x3IFimgKs3VA2&format=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
